@@ -10,9 +10,9 @@ GEM
     descendants_tracker (0.0.4)
       thread_safe (~> 0.3, >= 0.3.1)
     equalizer (0.0.11)
-    excon (0.55.0)
+    excon (0.73.0)
     ice_nine (0.11.2)
-    telegram_bot (0.0.7)
+    telegram_bot (0.0.8)
       excon (>= 0.30.0)
       virtus (>= 1.0.0)
     thread_safe (0.3.6)
@@ -23,10 +23,10 @@ GEM
       equalizer (~> 0.0, >= 0.0.9)
 
 PLATFORMS
-  x64-mingw32
+  ruby
 
 DEPENDENCIES
   telegram_bot
 
 BUNDLED WITH
-   1.14.3
+   2.1.4

@@ -1,3 +1,3 @@
-# Joeboxbot
+# Comodoro Sanches
 
-Jukebox for Telegram!
+Brother para todas as ocasiōes.
